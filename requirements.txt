@@ -1,0 +1,21 @@
+# Streamlit for UI
+streamlit==1.27.0
+
+# LangChain core (for LLM pipeline)
+langchain==1.2.12
+langchain-core==1.2.19
+langsmith==0.7.17
+
+# Vector search using FAISS (CPU only)
+faiss-cpu==1.13.2
+numpy==1.26.4
+
+# PDF processing
+PyPDF2==3.0.1
+
+# OpenAI client
+openai>=0.27.0
+
+# Optional utilities (text splitting, embeddings, etc.)
+packaging>=23.0
+typing-extensions>=4.7.0
