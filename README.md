@@ -115,6 +115,4 @@ http://localhost:8501
 
 ```
 
----
 
-⭐ If you like this project, consider **starring the repository**.
