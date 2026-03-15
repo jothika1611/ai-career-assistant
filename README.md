@@ -1,4 +1,4 @@
-```
+````
 # 💼 AI Career Assistant
 
 An AI-powered Resume Analyzer and PDF Chatbot built with **Streamlit, LangChain, Ollama, and OpenAI**.
@@ -69,7 +69,7 @@ Clone the repository
 ```bash
 git clone https://github.com/yourusername/ai-career-assistant.git
 cd ai-career-assistant
-
+```
 Install dependencies
 ```bash
 pip install -r requirements.txt
@@ -90,4 +90,4 @@ http://localhost:8501
 - Ollama
 - OpenAI API
 - PyPDF2
-```
+````
