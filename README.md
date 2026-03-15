@@ -37,9 +37,9 @@ The application supports two AI providers.
 # ☁️ OpenAI API
 - gpt-4o-mini
 
-#🏗 Project Structure
+# 🏗 Project Structure
 ---
-```
+
 ai_career_assistant/
 
 │
@@ -58,18 +58,17 @@ ai_career_assistant/
 │   └── rag_pipeline.py
 │
 └── utils
-```
+
 # ⚙️ Installation
 ---
 Clone the repository
-```bash
+
 git clone https://github.com/yourusername/ai-career-assistant.git
 cd ai-career-assistant
-```
 Install dependencies
-```bash
+
 pip install -r requirements.txt
-```
+
 ▶️ Run the Application
 streamlit run app.py
 
