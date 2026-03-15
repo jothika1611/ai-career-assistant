@@ -1,9 +1,11 @@
 ```
 # 💼 AI Career Assistant
----
-An AI-powered Resume Analyzer and PDF Chatbot built with Streamlit, LangChain, Ollama, and OpenAI.
+
+An AI-powered Resume Analyzer and PDF Chatbot built with **Streamlit, LangChain, Ollama, and OpenAI**.
 
 This project allows users to analyze resumes and interact with PDF documents using AI.
+
+---
 
 ## 🚀 Features
 
@@ -11,33 +13,36 @@ This project allows users to analyze resumes and interact with PDF documents usi
 
 Upload a resume and get:
 
-* Resume score
-
-* Candidate summary
-
-* Skills analysis
-
-* Experience evaluation
-
-* Improvement suggestions
+- Resume score
+- Candidate summary
+- Skills analysis
+- Experience evaluation
+- Improvement suggestions
 
 ### 📚 PDF Chatbot
 
-Upload a PDF and ask questions about the document using RAG (Retrieval Augmented Generation).
+Upload a PDF and ask questions about the document using **RAG (Retrieval Augmented Generation)**.
+
 ---
+
 ## 🧠 AI Model Support
 
 The application supports two AI providers.
 
 ### 🖥️ Ollama (Local AI)
 
-- gemma3:4b
-- llama3
-- mistral
+- gemma3:4b  
+- llama3  
+- mistral  
+
 ### ☁️ OpenAI API
+
 - gpt-4o-mini
+
 ---
-# 🏗 Project Structure
+
+## 🏗 Project Structure
+
 
 ai_career_assistant/
 
@@ -64,7 +69,7 @@ Clone the repository
 ```bash
 git clone https://github.com/yourusername/ai-career-assistant.git
 cd ai-career-assistant
-```
+
 Install dependencies
 ```bash
 pip install -r requirements.txt
