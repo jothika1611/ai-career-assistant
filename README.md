@@ -4,10 +4,10 @@
 An AI-powered Resume Analyzer and PDF Chatbot built with Streamlit, LangChain, Ollama, and OpenAI.
 
 This project allows users to analyze resumes and interact with PDF documents using AI.
-```
-````
+
+
 🚀 Features
-```
+
 📄 Resume Analyzer
 
 Upload a resume and get:
@@ -21,13 +21,13 @@ Skills analysis
 Experience evaluation
 
 Improvement suggestions
-```
+
 📚 PDF Chatbot
 
 Upload a PDF and ask questions about the document using RAG (Retrieval Augmented Generation).
-```
+
 🧠 AI Model Support
-```
+
 The application supports two AI providers:
 
 Ollama (Local AI)
@@ -41,7 +41,7 @@ mistral
 OpenAI API
 
 gpt-4o-mini
-```
+
 🏗 Project Structure
 ai_career_assistant/
 │
@@ -58,9 +58,9 @@ ai_career_assistant/
 │   ├── resume_analyzer.py
 │   ├── vector_store.py
 │   └── rag_pipeline.py
-```
+
 ⚙️ Installation
-```
+
 Clone the repository:
 
 git clone https://github.com/yourusername/ai-career-assistant.git
@@ -77,7 +77,7 @@ streamlit run app.py
 Open in browser:
 
 http://localhost:8501
-```
+
 🛠 Technologies
 
 Python
